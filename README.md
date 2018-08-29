@@ -1,5 +1,5 @@
 # Dribbler
-A ball-centering dribbler is being developed to improve the kicking accuracy of robots. Please refer to [this file](Study_of Material_and_Design_of_Dribbler_Subsystem.pdf) for more information.
+A ball-centering dribbler is being developed to improve the kicking accuracy of robots. Please refer to [this file](https://github.com/oonchulip97/dribbler/blob/master/Study%20of%20Material%20and%20Design%20of%20Dribbler%20Subsystem.pdf) for more information.
 
 # Useful Things to Consider
   - 
